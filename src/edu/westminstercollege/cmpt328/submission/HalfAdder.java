@@ -16,7 +16,6 @@ public class HalfAdder {
     public HalfAdder() {
         // Put code here that creates the needed logic gates and connects them to the inputs
     	
-        
         // Your code should finish with...
         SUM = new XorGate(A, B);
         C = new AndGate(A, B); 
