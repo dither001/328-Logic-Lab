@@ -3,6 +3,11 @@ package edu.westminstercollege.cmpt328.submission;
 import edu.westminstercollege.cmpt328.logic.*;
 import edu.westminstercollege.cmpt328.logic.gates.*;
 
+/*
+ * FullAdder class created for CMPT-328 Architecture
+ * @Author Nick Foster
+ */
+
 public class FullAdder {
 	// Inputs to the circuit: InputLines
 	public final InputLine A = new InputLine();
